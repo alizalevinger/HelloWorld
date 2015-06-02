@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">HelloWorld</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello Aliza Levinger</string>
+    <string name="and_and">and</string>
+    <string name="and_welcome">Welcome in CS 639 Summer 2015</string>
     <string name="action_settings">Settings</string>
 </resources>
